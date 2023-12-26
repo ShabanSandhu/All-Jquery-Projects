@@ -1,0 +1,141 @@
+
+#header{
+    background-color: #dc143c;
+}
+
+
+#header h2{
+    color: white;
+    padding: 0.5rem 1rem 0.5rem 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+
+.bttn{
+    font-weight: bold;
+    color: white;
+}
+
+
+.bttn:hover ,.bttn:focus , .bttn:active {
+    color: white;
+}
+
+
+#col2{
+    padding-left: 20%;
+}
+
+
+#body{
+margin-top: 5rem;
+}
+
+
+#searchBtn{
+    font-weight: bolder;
+    font-size:x-large;
+}
+
+
+#exampleModalLabel{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+
+#selectImgBtn{
+    font-size:xx-large;
+    margin-left: 4.5rem;
+    cursor: pointer;
+}
+
+
+#lableForName{
+    display: none;    
+}
+
+
+#lableForEmail{
+    display: none;    
+}
+
+
+#lableForDate{
+    display: none;    
+}
+
+
+#lableForNumber{
+    display: none;    
+}
+
+
+.cssClass{
+    color: white;
+    background-color:rgb(189, 186, 186);
+    font-weight: bold;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0.5rem 1rem 0.4rem 1rem ;
+}
+
+
+#icon{
+    display: none;
+}
+
+
+#thead{
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#tBody{
+    font-weight: lighter;
+    font-size:medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#font{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+
+.btn-close{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+
+.cssClass1{
+    color: white;
+}
+
+
+.confirText{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: large;
+}
+
+
+#inputFile{
+    display: none;
+}
+
+
+#IMG{
+    height: 201px;
+    width: 250px;
+}
+
+#imgForTable{
+    width: 40px;
+    border-radius: 20px;
+}

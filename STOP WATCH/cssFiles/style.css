@@ -1,0 +1,40 @@
+.overlay {
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(43, 43, 43, 0.7);
+    z-index: 0;
+}
+.watch{
+    text-align: center;
+}
+
+#hours{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem;
+    font-weight: lighter;
+}
+
+#minutes{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 4rem;
+    font-weight: lighter;
+}
+
+#seconds{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight:lighter;
+}
+
+.btn{
+    font-size: xx-large;
+}
+
+.bttn{
+    text-align: center;
+}
+
